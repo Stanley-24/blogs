@@ -1,11 +1,11 @@
 ---
 title: "🧠 I Am the Architect of My Reality"
-seoTitle: "How The Book titled The Kybalion Reprogrammed My Mind "
-seoDescription: "The Book titled the Kybalion helped me realize that the greatest system I’ll ever debug is my own mind. "
+seoTitle: "How The Book titled The Kybalion Reprogrammed My Mind"
+seoDescription: "The Book titled the Kybalion helped me realize that the greatest system I’ll ever debug is my own mind."
 datePublished: Mon Oct 13 2025 10:38:38 GMT+0000 (Coordinated Universal Time)
 cuid: cmgp02xs2000102l5edbgfjt7
 slug: i-am-the-architect-of-my-reality
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Df_HHzSseEg/upload/3d4230e485eb244a9f8c321533dc5757.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1760439397185/fe55036f-d279-4314-ad06-ff2520c8bbca.png
 tags: software-engineering, philosophy, mindset
 
 ---
