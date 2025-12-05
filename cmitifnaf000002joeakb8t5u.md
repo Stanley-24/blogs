@@ -6,7 +6,6 @@ datePublished: Fri Dec 05 2025 23:42:54 GMT+0000 (Coordinated Universal Time)
 cuid: cmitifnaf000002joeakb8t5u
 slug: down-in-my-lowest-a-25-year-olds-midnight-cry
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764978070373/e94b28c0-d128-45fe-93d3-ffeaca55c9a3.webp
-tags: startups, nigerianintech, africanstartups, africatech, rentalwave
 
 ---
 
