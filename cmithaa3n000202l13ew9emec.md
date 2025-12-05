@@ -6,7 +6,6 @@ datePublished: Fri Dec 05 2025 23:10:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmithaa3n000202l13ew9emec
 slug: down-in-my-lowest-
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1764975866665/152d24e8-92a3-482f-bcc5-4d9bab65a79a.webp
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1764976217197/b77b9fa3-c395-4258-9c05-c23f100764b6.webp
 tags: innovation, developerlife, africanstartups, techinafrica, startupjourney, lifeat25, founderlife, faithandhustle, rentalwave
 
 ---
